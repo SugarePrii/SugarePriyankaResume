@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    border: 2px solid black;
+    width: 750px;
+    margin: 0 auto;/*center the box container*/
+    padding: 20px;
+}
+
+.head{
+    text-align: center;/*center the words*/
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;/*remove the spacing between table spaces*/
+}
+
+table th{
+    border: 1px solid black;
+}
+
+table td{
+    border: 1px solid black;
+    text-align: center;
+}
